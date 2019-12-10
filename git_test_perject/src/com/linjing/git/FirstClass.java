@@ -14,5 +14,6 @@ public class FirstClass {
     }
     public void function(){
         int i = 10;
+        System.out.println(i);
     }
 }
